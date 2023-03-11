@@ -1,2 +1,1 @@
-# basefire
-go project  base
+README.md
